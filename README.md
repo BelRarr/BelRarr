@@ -1,8 +1,12 @@
 ### Hi, I'm Tidjani! 👋
 
-![Me](./tidjani_rounded_small.png)
 
-![MVP Banner](./mvp-banner-small.png)
+<p align="center">
+  <img src="https://github.com/BelRarr/BelRarr/blob/master/tidjani_rounded_small.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/BelRarr/BelRarr/blob/master/mvp-banner-small.png" />
+</p>
 
 I'm a Microsoft Azure MVP, a Cloud Solutions Architect and a coffee addict. I've been in love with computers since 1988.
 
