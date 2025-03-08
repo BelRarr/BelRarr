@@ -10,17 +10,21 @@
 
 I'm a Microsoft Azure MVP, a Cloud Solutions Architect and a coffee addict. I've been in love with computers since 1988.
 
-I also had the great pleasure to contribute to the book "97 things every cloud engineer should know" by O'Reilly <https://www.oreilly.com/library/view/97-things-every/9781492076728/>
+I am the proud author of the **first** book on building CLI applications with C# and .NET, published by Packt. Grab your copy from:
+- The Packt website (https://lnkd.in/epf-di3s) 
+- Amazon(https://packt.link/E7ySG).
+
+I've also had the pleasure to contribute to the book "97 things every cloud engineer should know" by O'Reilly <https://www.oreilly.com/library/view/97-things-every/9781492076728/>
 - https://www.oreilly.com/library/view/97-things-every/9781492076728/ch53.html
 - https://www.oreilly.com/library/view/97-things-every/9781492076728/ch54.html
 
 ⚡ Fun fact:  
 - I wrote my first line of code in 1988 in Basic on a Yamaha MSX.
 
-📫 How to reach me:
+📫 How to reach out to me:
 * Twitter: <https://www.twitter.com/Tidjani_B>
-* LinkedIn: <https://ca.linkedin.com/in/tidjani-belmansour-ph-d-98460912>
-* My blog in French: <http://espacenuagic.com/>
+* LinkedIn: <https://ca.linkedin.com/in/tidjani-belmansour>
+* My blog in French: <https://espacenuagic.com/>
 * My blog in English: <https://dev.to/tidjani>
 
 <!--
